@@ -1,0 +1,23 @@
+{
+  "name": "xlsx-js-style",
+  "homepage": "https://github.com/gitbrent/xlsx-js-style",
+  "main": "dist/xlsx.min.js",
+  "ignore": [
+    "bin",
+    "bits",
+    "misc",
+    "**/.*"
+  ],
+  "keywords": [
+    "excel",
+    "xls",
+    "xml",
+    "xlsx",
+    "xlsm",
+    "xlsb",
+    "ods",
+    "js-xls",
+    "js-xlsx",
+    "xlsx-js-style"
+  ]
+}

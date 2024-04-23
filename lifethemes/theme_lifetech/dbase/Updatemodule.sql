@@ -1,0 +1,1 @@
+UPDATE theme_tbl SET lifelayout='theme_lifetech.jpg',lifeblock='theme_lifetech.jpg',theme_name='theme_lifetech',themedesc='Lifetech home page theme',status='Unpublish',dtreg='2022-07-17 13:25:49',lastup='2023-01-15 03:13:18'WHERE theme_name='theme_lifetech';;;;;_lifetechend;;;;;
