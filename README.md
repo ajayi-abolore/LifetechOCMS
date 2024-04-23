@@ -1,8 +1,8 @@
 
-![lifetech_logo](https://github.com/ajayi-abolore/LifetechOCMS/assets/111434189/89804ab9-9bb4-4d74-a1c2-d57ec7815d99) 
+![lifetech_logo](https://github.com/ajayi-abolore/LifetechOCMS/assets/111434189/89804ab9-9bb4-4d74-a1c2-d57ec7815d99) <br>
 <B>Lifetech OCMS</B>makes developing websites for your clients so much easier, quicker and more enjoyable. It improves team collaboration and allows you to build unlimited websites for your clients on a single membership.
 
-##Tools
+##Tools <br>
 LifeRazor : this is our template engine that is used to render data to the frontend within html, it works like Laravel Blade, and more or less like twig..
 Liferazor uses close syntax like twig <p> my name is:{% $username %}
 
